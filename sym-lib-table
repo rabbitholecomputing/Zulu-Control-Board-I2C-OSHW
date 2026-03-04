@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PCA9554APW_118")(type "KiCad")(uri "${KIPRJMOD}/PCA9554APW_118/PCA9554APW_118.kicad_sym")(options "")(descr ""))
+  (lib (name "ctrl_board_symbols")(type "KiCad")(uri "${KIPRJMOD}/ctrl_board_symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "graphics")(type "KiCad")(uri "${KIPRJMOD}/graphics.kicad_sym")(options "")(descr ""))
+)
