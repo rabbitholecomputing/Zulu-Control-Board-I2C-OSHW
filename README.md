@@ -3,3 +3,6 @@ This design was originally created to control the ZuluIDE in a 5.25" bracket. It
 
 The design is created in KiCAD 9.  Gerber, BOM, and position files can be built automatically as a Github action.
 
+![Zulu Control Board front render](./images/ZuluControlBoardV1.1-OSHW-ZuluControlBoardV1.1-Rev2026c-rear.png)
+
+![Zulu Control Board front render](./images/ZuluControlBoardV1.1-OSHW-ZuluControlBoardV1.1-Rev2026c-front.png)
