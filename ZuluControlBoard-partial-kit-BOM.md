@@ -9,8 +9,14 @@ The 0.96" OLED display modules are commodity items, see https://www.amazon.com/d
  
 * J2 - Optional two-pin LED activity header on the control board, which must be separately connected to the two-pin activity LED header on the ZuluSCSI, as the Qwiic cable does not carry signals for that. 
 
-* SW4, Rotary encoder: Apls Alpine [EC11E153440D](https://www.mouser.com/en/Compare/SimilarProducts?pIds=ynblqeJvy3E8YXKVWdoBOI%252Bfvq0Lxzf4XI7lGkWAi0aH8Dopjd%252FMHA%253D%253D) or similar Chinese-made "EC11" equivalent.
+* SW4, Rotary encoder: Apls Alpine [EC11E152440D](https://tech.alpsalpine.com/e/products/category/encorders/sub/01/series/ec11e/) or [similar Chinese-made "**EC11E**" equivalent](https://www.amazon.com/s?k=rotary+encoder+EC11).
 
-Please note that **non-pushbutton** rotary encoders **are not supported** by the firmware, so be sure to obtain one that has pushbutton support.
+Please note that **non-pushbutton** rotary encoders **are not supported** by the firmware, so be sure to obtain one that has pushbutton/push-on support.
 
-For rotary encoders, there are many alternative manufacturers and part numbers, including [Chinese-made ones which you can purchase from Amazon](https://www.amazon.com/s?k=rotary+encoder+EC11).
+The following Alps Alpine EC11E rotary encoders are pushbutton-equipped models:
+
+* [EC11E15244G1](https://octopart.com/search?specs=0&full_query=EC11E15244G1)
+* [EC11E18244AU](https://octopart.com/search?specs=0&full_query=EC11E18244AU)
+* [EC11E09244AQ](https://octopart.com/search?specs=0&full_query=EC11E09244AQ)
+* [EC11E15244B2](https://octopart.com/search?specs=0&full_query=EC11E15244B2)
+* [EC11E18244A5](https://octopart.com/search?specs=0&full_query=EC11E18244A5)
